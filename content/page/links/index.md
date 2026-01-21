@@ -10,7 +10,7 @@ links:
     website: https://www.typescriptlang.org
     image: ts-logo-128.jpg
   - title: Bilibili
-    description:
+    description: 
     website: https://space.bilibili.com/85575826
     image: bilibili.png
 menu:
