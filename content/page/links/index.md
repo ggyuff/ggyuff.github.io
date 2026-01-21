@@ -9,6 +9,10 @@ links:
     description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
     website: https://www.typescriptlang.org
     image: ts-logo-128.jpg
+  - title: Bilibili
+    description:
+    website: https://space.bilibili.com/85575826
+    image: bilibili.png
 menu:
     main: 
         weight: 4
