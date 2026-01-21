@@ -14,16 +14,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout (with submodules)
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: recursive
           fetch-depth: 0
 
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
-        go-version: '1.21'
+          go-version: '1.21'
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
@@ -32,6 +31,8 @@ jobs:
           extended: true
 
       - name: Build
+        env:
+          GOPROXY: https://goproxy.cn,direct
         run: hugo --minify
 
       - name: Upload Pages artifact
