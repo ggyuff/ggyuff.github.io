@@ -2,14 +2,12 @@ name: Deploy to Github Pages
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
 
@@ -30,7 +28,7 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
-          go-version: '^1.21.0'   # 解释见下：升级为 1.21，更稳地支持 Hugo Modules
+          go-version: '^1.21.0'
 
       - run: go version
 
