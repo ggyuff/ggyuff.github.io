@@ -13,11 +13,11 @@ links:
     description: 
     website: https://space.bilibili.com/85575826
     image: bilibili.png
-menu:
-    main: 
-        weight: 4
-        params:
-            icon: link
+# menu:
+#     main: 
+#         weight: 4
+#         params:
+#             icon: link
 
 comments: false
 ---
