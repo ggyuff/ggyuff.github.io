@@ -5,10 +5,6 @@ slug: ISAP2025
 date: 2026-01-22 00:00:00+0000
 image: 
 draft: false
-categories:
-    - 
-tags:
-    - 
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
@@ -22,7 +18,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 然后我就经历了有生以来最快乐的11天
 
-### ​
+## ​
 
 签证的准备还是非常折磨的，我见下签只需要五个工作日，便把办签日期拖到了出发前不到一个月。预约前一周收到三哥提醒说商务签要找会议方要邀请信，过两天又收到会议方提醒我没注册会议缴费我滴码我哪懂这个，赶忙注册了被日本人拖到办签前一天忍不住夺命连环催才下了邀请信煎熬程度堪比等offer，不过还好也是有惊无险。
 
