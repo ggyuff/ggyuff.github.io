@@ -2,7 +2,7 @@
 #[[main]]
 #identifier = "home"
 #name = "Home"
-#url = "https://ggyuff.github.io/"
+#url = "/"
 #[main.params]
 #icon = "home"
 #newtab = true
