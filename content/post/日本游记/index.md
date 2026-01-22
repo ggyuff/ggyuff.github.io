@@ -361,3 +361,5 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 
 回来后最爽的是当社交恐怖分子问同事“你是二刺猿吗”然后塞个谷子给他师兄憋到说不出话来那我一眼就看出来他浓度可高了
+
+![](Fig.png)
