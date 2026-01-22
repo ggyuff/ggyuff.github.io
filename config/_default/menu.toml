@@ -10,7 +10,7 @@
 [[social]]
 identifier = "QQ群"
 name = "QQ群"
-url = "/img/qqgroup.jpg"
+url = "/qqgroup.jpg"
 
 [social.params]
 icon = "qq"
