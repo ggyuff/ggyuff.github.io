@@ -97,7 +97,6 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ③硕导人很好，对我似乎也比较满意，找他读博也好要connection也好机会都比原来高不少。
 
 ④染上了舞萌，我的解压效率有了显著的提高。不用笑，这是真的，舞萌确实比电脑游戏好玩太多。
-
 严肃点说，其实是我选择相信自己的抗压能力。
 
 
