@@ -14,7 +14,7 @@ menu:
 # 可选：页面的封面图（用于社交分享卡片/列表封面等）
 # 如不需要可删除 cover 段
 cover:
-  image: "./about.png"   # 将图片放到本目录（content/page/about/）
+  image: "/about.png"   # 将图片放到本目录（content/page/about/）
   alt: "About"
   caption: ""
 
