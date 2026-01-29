@@ -4,7 +4,7 @@ description:
 slug: 我的本科
 date: 2026-01-29 00:00:00+0000
 image: 
-draft: true
+draft: false
 categories:
 tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
