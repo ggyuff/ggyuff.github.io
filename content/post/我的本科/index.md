@@ -2,7 +2,7 @@
 title: 我的本科
 description: 
 slug: 我的本科
-date: 2026-01-22 00:00:00+0000
+date: 2026-01-29 00:00:00+0000
 image: 
 draft: true
 categories:
