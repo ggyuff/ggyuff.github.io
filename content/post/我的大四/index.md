@@ -11,7 +11,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ---
 
 
-阅读本文前强烈建议先阅读我的[本科经历](/p/我的本科)
+[前情提要](/p/我的本科)
 
 # 大四上
 苏州没有机场。
