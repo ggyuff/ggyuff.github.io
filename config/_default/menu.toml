@@ -8,6 +8,14 @@
 #newtab = true
 
 [[social]]
+identifier = "QQ"
+name = "QQ"
+url = "/qq.jpg"
+
+[social.params]
+icon = "qq"
+
+[[social]]
 identifier = "QQ群"
 name = "QQ群"
 url = "/qqgroup.jpg"
