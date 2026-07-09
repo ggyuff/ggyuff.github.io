@@ -1,7 +1,7 @@
 ---
-title: ISAP2025 日本游记
+title: ISAP2025 二刺猿的日本游记
 description: 
-slug: ISAP2025
+slug: 日本游记
 date: 2026-01-22 00:00:00+0000
 image: 
 draft: false
