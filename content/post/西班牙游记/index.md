@@ -19,6 +19,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 0
 
 长途飞机还是太折磨了，坐过道旁边总有人蹭到身体，只能断断续续地睡，飞机上算好睡满了八个小时，下了飞机还是和熬了大夜没什么区别。 但无论如何来到新国家还是有点激动的。
+
 ![](f1.jpg)
 
 1
